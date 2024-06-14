@@ -53,5 +53,5 @@ Supongamos que una empresa de comercio electrónico desea monitorear las ventas 
 
 * Uso de herramientas de machine learning para identificar patrones inusuales en el comportamiento de los clientes, como picos de tráfico inusuales o aumentos repentinos en los carritos abandonados.
 ----
-Conclusión
+## Conclusión
 La monitorización en el análisis de datos es un componente esencial para garantizar que los sistemas de datos y los procesos de negocio funcionen de manera eficiente y efectiva. Al permitir una supervisión continua y la detección temprana de problemas, la monitorización ayuda a las organizaciones a mantener la calidad de los datos, optimizar el rendimiento y tomar decisiones informadas basadas en datos actualizados y precisos.
